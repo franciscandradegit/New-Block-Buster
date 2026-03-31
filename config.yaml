@@ -1,0 +1,17 @@
+input_data:
+  file1 : "../data/raw/movies.csv"
+
+
+output_data:
+  file1 : 
+  file2 :
+  file3 :
+  file4 :
+  file5 :
+  file6 :
+  file7 : "../data/clean/H2_X_test_scaled.csv"
+  file8 : "../data/clean/H2_X_test.csv"
+  file9 : "../data/clean/H2_X_train_scaled.csv"
+  file10: "../data/clean/H2_X_train.csv"
+  file11: "../data/clean/H2_y_test.csv"
+  file12: "../data/clean/H2_y_train.csv"
