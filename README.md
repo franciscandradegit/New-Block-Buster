@@ -1,6 +1,6 @@
 🎬 Can We Predict Movie Success?
 
-An ML Analysis of Budget, Runtime, and Popularity
+A Machine Learning Analysis of Budget, Runtime, and Popularity
 
 ⸻
 
